@@ -1,0 +1,17 @@
+.bg-dark{
+  background-color: #222!important;
+}
+
+.bg-robin{
+  background-image: url("https://static0.srcdn.com/wordpress/wp-content/uploads/2020/02/Robert-Pattinson-in-The-Batman-Robin.jpg");
+  height: 50vh;
+}
+
+img{
+  max-width: 100%;
+  height: auto;
+}
+
+button{
+  border-radius: 0%!important;
+}
